@@ -27,6 +27,15 @@
             </a>
           </li>
 
+          <li class="nav-item">
+            <a href="../auth/video.php" class="nav-link <?php if ($konstruktor=='video_waifuku'){echo 'active';}?>">
+              <i class="nav-icon fa-solid fa-film"></i>
+              <p>
+                .mp4
+              </p>
+            </a>
+          </li>
+
           </li>
           <li class="nav-item">
             <a href="../auth/logout.php" class="nav-link">
